@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Zubair Mallik
 
-💻 **Passionate Web Developer | MERN Stack Developer | web developer | DSA 💪
+💻 **Passionate Web Developer | MERN Stack Developer | web developer | DSA 💪**
 
 - 🎓 Currently in my 3rd year of **Computer Science Engineering** at **MVJ College**.
 - 👨‍💻 I've been coding since 12th grade, focusing on **building responsive** and **interactive web applications**.
