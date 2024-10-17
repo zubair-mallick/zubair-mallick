@@ -43,4 +43,4 @@
 
 ### 📫 How to reach me:
 - 📧 Email: zubair7035@gmail.com
-- 🔗 Lindln: [LinkedIn](https://www.linkedin.com/in/zubair-mallik/)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/zubair-mallik/)
