@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Zubair Mallik
 
-💻 **4x+ Hackathon winner 🏆 | Passionate Web Developer | Full Stack Developer | DSA 💪**
+ **4x+ Hackathon winner 🏆 | 💻 Passionate Web Developer | Full Stack Developer | DSA 💪**
 
 - 🎓 Currently in my 3rd year of **Computer Science Engineering** at **MVJ College**.
 - 👨‍💻 I've been coding since 12th grade, focusing on **building responsive** and **interactive web applications**.
