@@ -1,11 +1,11 @@
 
 # 👋 Hi, I'm Zubair Mallik
 
- **4x+ Hackathon winner 🏆 | 💻 Full Stack Developer | DSA 💪**
+ **5x+ Hackathon winner 🏆 | 💻 Full Stack Developer | DSA 💪**
 
 - 🎓 Currently in my 3rd year of **Computer Science Engineering** at **MVJ College**.
 - 👨‍💻 I've been coding since 12th grade, focusing on **building responsive** and **interactive web applications**.
-- 🌟 Passionate about web development, with expertise in **MERN Stack**, **HTML**, **CSS**,  **TypeScript**,**JavaScript**, and **Java**.
+- 🌟 Passionate about web development, with expertise in  **Next js**, **MERN Stack**, **HTML**, **CSS**,  **TypeScript**,**JavaScript**, and **Java**.
 - 🚀 I enjoy **solving complex problems**, **building new features**, and constantly **experimenting with new technologies**.
 - 🧠 Always eager to **explore** and **learn new things**, motivated to **discover innovative solutions** and integrate them into my projects.
 - 🔥 I embrace challenges, continuously pushing myself to **improve** and **grow**.
